@@ -1,0 +1,19 @@
+#readInner {
+    line-height: 1.4em;
+    max-width: 95%;
+    margin: 1em auto;
+}
+#readInner a:link {
+    color: black;
+    text-decoration: none;
+}
+#readInner a:hover {
+    cursor: default;
+    text-decoration: none;
+}
+#readInner img {
+}
+#readInner table,th,td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
